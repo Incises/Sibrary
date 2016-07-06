@@ -1,4 +1,6 @@
 /src
+/incomplete
+/unfinished
 *.wmv
 *.png
 *.mp4
@@ -7,3 +9,7 @@
 *.wav
 *.jpg
 *.jpeg
+*.gif
+*.wma
+*.ape
+*.cue
