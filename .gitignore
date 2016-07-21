@@ -1,6 +1,7 @@
 /src
 /incomplete
 /unfinished
+/Output
 *.wmv
 *.png
 *.mp4
@@ -13,3 +14,4 @@
 *.wma
 *.ape
 *.cue
+*.aiff
