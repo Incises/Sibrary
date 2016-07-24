@@ -22,7 +22,7 @@ http://tieba.baidu.com/p/4683898411
 ######Promenade for Flute Solo
 http://tieba.baidu.com/p/4642653653
 
-##Suite in the Old Style
+##Schnittke: Suite in the Old Style
 ######Fugue
 
 ##Planetarian
