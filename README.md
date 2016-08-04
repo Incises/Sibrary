@@ -22,9 +22,6 @@ http://tieba.baidu.com/p/4683898411
 ######Promenade for Flute Solo
 http://tieba.baidu.com/p/4642653653
 
-##Schnittke: Suite in the Old Style
-######Fugue
-
 ##Planetarian
 ######01. 星の世界 ～Opening～ for Flute Solo
 http://tieba.baidu.com/p/4674610353
