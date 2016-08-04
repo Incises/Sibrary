@@ -6,6 +6,8 @@ Pay attention to the licenses of the sheet music(if they have).
 http://tieba.baidu.com/p/4684766660
 ######My Soul, Your Beats! for Flute Solo
 http://tieba.baidu.com/p/4641525496
+######一番の宝物 Yui ver. for Flute and Piano
+http://tieba.baidu.com/p/4705377675
 
 ##CLANNAD
 ######Dango Daikazoku for Flute Solo
