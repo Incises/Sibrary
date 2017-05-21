@@ -17,6 +17,7 @@
 *.cue
 *.aiff
 *.tif
+*.zip
 desktop.ini
 /inadequate
 /imperfect
