@@ -8,7 +8,7 @@
   <creator type="composer">水月陵
 bearbeitet für Kammerensemble von jswxdzc</creator>
   <encoding>
-   <encoding-date>2017-05-28</encoding-date>
+   <encoding-date>2017-07-01</encoding-date>
    <encoder>Achilles</encoder>
    <software>Sibelius 8.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -1453,7 +1453,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="249" default-y="-29">
+   <note color="#000000" default-x="250" default-y="-29">
     <pitch>
      <step>E</step>
      <octave>6</octave>
@@ -1481,7 +1481,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <direction>
     <direction-type>
      <rehearsal font-family="Plantin MT Std" font-style="normal" font-size="17.1407" font-weight="bold" color="#000000" enclosure="square">2</rehearsal>
@@ -1549,7 +1549,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note color="#000000" default-x="15" default-y="-45">
     <pitch>
      <step>D</step>
@@ -1606,7 +1606,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="147" default-y="-34">
+   <note color="#000000" default-x="148" default-y="-34">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -1626,7 +1626,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <offset sound="no">127</offset>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="175" default-y="-34">
+   <note color="#000000" default-x="176" default-y="-34">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -1689,7 +1689,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="109">
+   <note default-x="108">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -1697,6 +1697,19 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>eighth</type>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <words default-x="130" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">cresc.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="136" default-y="-20">
     <pitch>
      <step>B</step>
@@ -1753,7 +1766,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="58" default-y="-20">
+   <note color="#000000" default-x="57" default-y="-20">
     <pitch>
      <step>E</step>
      <octave>6</octave>
@@ -1768,6 +1781,13 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="stop" orientation="over" />
     </notations>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">-1</offset>
+    <staff>1</staff>
+   </direction>
    <note default-x="96" default-y="-40">
     <rest />
     <duration>128</duration>
@@ -1788,7 +1808,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="152" default-y="-19">
+   <note color="#000000" default-x="151" default-y="-19">
     <pitch>
      <step>G</step>
      <octave>6</octave>
@@ -1801,7 +1821,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="180" default-y="-19">
+   <note color="#000000" default-x="179" default-y="-19">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -1816,7 +1836,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note color="#000000" default-x="15" default-y="-20">
     <pitch>
      <step>C</step>
@@ -1908,7 +1928,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="170" default-y="-25">
+   <note color="#000000" default-x="169" default-y="-25">
     <pitch>
      <step>A</step>
      <octave>6</octave>
@@ -3465,7 +3485,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -3486,7 +3506,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note default-x="276" default-y="-40">
+   <note default-x="266" default-y="-40">
     <rest />
     <duration>128</duration>
     <instrument id="P1-I1" />
@@ -3496,14 +3516,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="319" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="306" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="325" default-y="10">
+   <note color="#000000" default-x="312" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3518,7 +3538,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="422" default-y="5">
+   <note color="#000000" default-x="407" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -3532,7 +3552,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
      <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
@@ -3562,7 +3582,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -3573,7 +3593,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -3584,7 +3604,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -4854,7 +4874,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -4865,7 +4885,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>512</duration>
@@ -4909,7 +4929,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="147" default-y="-34">
+   <note color="#000000" default-x="148" default-y="-34">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -4929,7 +4949,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <offset sound="no">127</offset>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="175" default-y="-34">
+   <note color="#000000" default-x="176" default-y="-34">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -4992,7 +5012,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="109">
+   <note default-x="108">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -5000,6 +5020,19 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>eighth</type>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <words default-x="130" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">cresc.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="136" default-y="-20">
     <pitch>
      <step>B</step>
@@ -5056,7 +5089,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="58" default-y="-20">
+   <note color="#000000" default-x="57" default-y="-20">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -5071,6 +5104,13 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="stop" orientation="over" />
     </notations>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">-1</offset>
+    <staff>1</staff>
+   </direction>
    <note default-x="96">
     <rest />
     <duration>128</duration>
@@ -5091,7 +5131,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="152">
+   <note default-x="151">
     <rest />
     <duration>256</duration>
     <instrument id="P2-I1" />
@@ -5101,7 +5141,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -6062,7 +6102,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -6090,7 +6130,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="130" default-y="-34">
+   <note color="#000000" default-x="127" default-y="-34">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -6103,7 +6143,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="179" default-y="-45">
+   <note color="#000000" default-x="172" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -6115,7 +6155,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>128</duration>
     <instrument id="P2-I1" />
@@ -6125,14 +6165,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="319" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="306" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="325" default-y="10">
+   <note color="#000000" default-x="312" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -6147,7 +6187,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="422" default-y="5">
+   <note color="#000000" default-x="407" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -6161,7 +6201,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
      <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
@@ -6191,7 +6231,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -6202,7 +6242,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -6213,7 +6253,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P2, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -6754,7 +6794,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -6765,7 +6805,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -6832,7 +6872,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="152" default-y="-49">
+   <note color="#000000" default-x="151" default-y="-49">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -6845,7 +6885,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="180" default-y="-49">
+   <note color="#000000" default-x="179" default-y="-49">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -6860,7 +6900,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note color="#000000" default-x="15" default-y="-50">
     <pitch>
      <step>C</step>
@@ -6974,7 +7014,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="170" default-y="-25">
+   <note color="#000000" default-x="169" default-y="-25">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -7997,7 +8037,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -8031,7 +8071,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="130" default-y="-34">
+   <note color="#000000" default-x="127" default-y="-34">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -8044,7 +8084,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="179" default-y="-45">
+   <note color="#000000" default-x="172" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -8063,7 +8103,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <offset sound="no">-1</offset>
     <staff>1</staff>
    </direction>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>512</duration>
     <instrument id="P3-I1" />
@@ -8073,7 +8113,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -8084,7 +8124,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -8095,7 +8135,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -8106,7 +8146,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P3, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -9556,7 +9596,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -9567,7 +9607,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -9600,7 +9640,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -11709,7 +11749,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -11732,7 +11772,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>half</type>
     <staff>1</staff>
    </note>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>128</duration>
     <instrument id="P4-I1" />
@@ -11742,14 +11782,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="319" default-y="-81" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="306" default-y="-103" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <mf />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="325" default-y="-55">
+   <note color="#000000" default-x="312" default-y="-55">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -11764,7 +11804,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
-   <note color="#000000" default-x="422" default-y="10">
+   <note color="#000000" default-x="407" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -11778,14 +11818,36 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
-     <dynamics default-x="9" default-y="-81" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="9" default-y="-103" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="180" default-y="-103" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">dim.</words>
+    </direction-type>
+    <offset sound="no">512</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <offset sound="no">512</offset>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="-9" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">1023</offset>
     <staff>1</staff>
    </direction>
    <note color="#000000" default-x="15">
@@ -11806,16 +11868,16 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-70" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-98" color="#000000" type="diminuendo" />
     </direction-type>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-70" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-98" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">1023</offset>
     <staff>1</staff>
@@ -11837,7 +11899,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -11848,7 +11910,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P4, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -13451,7 +13513,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -13474,7 +13536,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <attributes />
    <note default-x="15">
     <rest />
@@ -13543,7 +13605,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -14838,7 +14900,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -14878,7 +14940,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="276" default-y="-5">
+   <note color="#000000" default-x="266" default-y="-5">
     <pitch>
      <step>G</step>
      <octave>2</octave>
@@ -14892,7 +14954,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <attributes />
    <note default-x="15">
     <rest />
@@ -14931,7 +14993,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <attributes />
    <note default-x="15">
     <rest />
@@ -14944,37 +15006,17 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    <backup>
     <duration>1024</duration>
    </backup>
-   <direction>
-    <direction-type>
-     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
-    </direction-type>
-    <staff>2</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
-    </direction-type>
-    <offset sound="no">1023</offset>
-    <staff>2</staff>
-   </direction>
-   <note color="#000000" default-x="15">
-    <pitch>
-     <step>F</step>
-     <octave>2</octave>
-    </pitch>
+   <note default-x="15">
+    <rest />
     <duration>1024</duration>
-    <tie type="stop" />
     <instrument id="P5-I1" />
     <voice>2</voice>
     <type>whole</type>
     <staff>2</staff>
-    <notations>
-     <tied type="stop" />
-    </notations>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <attributes />
    <note default-x="15">
     <rest />
@@ -14997,7 +15039,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P5, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <attributes />
    <note default-x="15">
     <rest />
@@ -18859,7 +18901,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -18882,7 +18924,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <attributes />
    <note default-x="15">
     <rest />
@@ -18951,7 +18993,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -21431,11 +21473,175 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    <attributes />
    <note default-x="15">
     <rest />
-    <duration>1024</duration>
+    <duration>512</duration>
     <instrument id="P7-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
     <staff>1</staff>
+   </note>
+   <note default-x="149">
+    <rest />
+    <duration>256</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <staff>1</staff>
+   </note>
+   <note default-x="227">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note default-x="276">
+    <rest />
+    <duration>18</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <staff>1</staff>
+    <notations>
+     <tuplet type="start" bracket="no" number="1" default-y="17" placement="above" />
+    </notations>
+   </note>
+   <direction>
+    <direction-type>
+     <dynamics default-x="290" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <p />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="295" default-y="17">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>18</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <beam number="2">begin</beam>
+    <beam number="3">begin</beam>
+   </note>
+   <note color="#000000" default-x="314" default-y="17">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>18</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <beam number="2">continue</beam>
+    <beam number="3">continue</beam>
+   </note>
+   <note color="#000000" default-x="332" default-y="17">
+    <pitch>
+     <step>F</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>19</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <beam number="2">continue</beam>
+    <beam number="3">continue</beam>
+   </note>
+   <note color="#000000" default-x="350" default-y="17">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>18</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <beam number="2">continue</beam>
+    <beam number="3">continue</beam>
+   </note>
+   <note color="#000000" default-x="369" default-y="17">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>18</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <beam number="2">continue</beam>
+    <beam number="3">continue</beam>
+   </note>
+   <note color="#000000" default-x="389" default-y="17">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>19</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>32nd</type>
+    <time-modification>
+     <actual-notes>7</actual-notes>
+     <normal-notes>4</normal-notes>
+     <normal-type>32nd</normal-type>
+    </time-modification>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <beam number="2">end</beam>
+    <beam number="3">end</beam>
+    <notations>
+     <tuplet type="stop" bracket="no" number="1" default-y="17" placement="above" />
+    </notations>
    </note>
    <backup>
     <duration>1024</duration>
@@ -21452,12 +21658,91 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
   <!--============== Part: P7, Measure: 61 ==============-->
   <measure number="61" width="390">
    <attributes />
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <direction>
+    <direction-type>
+     <dynamics default-x="9" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <f />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>512</duration>
+    <tie type="start" />
     <instrument id="P7-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <notations>
+     <tied type="start" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="15">
+    <chord />
+    <pitch>
+     <step>A</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>512</duration>
+    <tie type="start" />
+    <instrument id="P7-I1" />
+    <type>half</type>
+    <staff>1</staff>
+    <notations>
+     <tied type="start" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="202" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="stop" />
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <notations>
+     <tied type="stop" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="202">
+    <chord />
+    <pitch>
+     <step>A</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <tie type="stop" />
+    <instrument id="P7-I1" />
+    <type>eighth</type>
+    <staff>1</staff>
+    <notations>
+     <tied type="stop" />
+    </notations>
+   </note>
+   <note default-x="248">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note default-x="295">
+    <rest />
+    <duration>256</duration>
+    <instrument id="P7-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
     <staff>1</staff>
    </note>
    <backup>
@@ -21602,7 +21887,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -21639,7 +21924,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <attributes />
    <note default-x="15">
     <rest />
@@ -21651,14 +21936,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="33" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="31" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <f />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="39" default-y="-19">
+   <note color="#000000" default-x="37" default-y="-19">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -21672,7 +21957,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="63" default-y="-19">
+   <note color="#000000" default-x="61" default-y="-19">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -21686,7 +21971,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="87" default-y="-19">
+   <note color="#000000" default-x="85" default-y="-19">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -21700,7 +21985,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="113" default-y="-40">
+   <note color="#000000" default-x="109" default-y="-40">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -21716,7 +22001,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tied type="start" />
     </notations>
    </note>
-   <note color="#000000" default-x="198" default-y="-42">
+   <note color="#000000" default-x="191" default-y="-42">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -21734,7 +22019,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tied type="stop" />
     </notations>
    </note>
-   <note color="#000000" default-x="223" default-y="-42">
+   <note color="#000000" default-x="214" default-y="-42">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -21748,7 +22033,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="247" default-y="-42">
+   <note color="#000000" default-x="239" default-y="-42">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -21762,7 +22047,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="271" default-y="-42">
+   <note color="#000000" default-x="262" default-y="-42">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -21776,7 +22061,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="295" default-y="-29">
+   <note color="#000000" default-x="288" default-y="-29">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -21790,7 +22075,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="320" default-y="-29">
+   <note color="#000000" default-x="311" default-y="-29">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -21804,7 +22089,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="350" default-y="-29">
+   <note color="#000000" default-x="339" default-y="-29">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -21818,7 +22103,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="374" default-y="-29">
+   <note color="#000000" default-x="361" default-y="-29">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -21845,7 +22130,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <attributes />
    <note color="#000000" default-x="15" default-y="-42">
     <pitch>
@@ -21861,7 +22146,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="39" default-y="-42">
+   <note color="#000000" default-x="37" default-y="-42">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -21875,7 +22160,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="63" default-y="-42">
+   <note color="#000000" default-x="61" default-y="-42">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -21889,7 +22174,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="87" default-y="-42">
+   <note color="#000000" default-x="85" default-y="-42">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -21903,7 +22188,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="112" default-y="-40">
+   <note color="#000000" default-x="107" default-y="-40">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -21919,7 +22204,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tied type="start" />
     </notations>
    </note>
-   <note color="#000000" default-x="155" default-y="-25">
+   <note color="#000000" default-x="166" default-y="-25">
     <pitch>
      <step>E</step>
      <octave>5</octave>
@@ -21937,7 +22222,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tied type="stop" />
     </notations>
    </note>
-   <note color="#000000" default-x="180" default-y="-25">
+   <note color="#000000" default-x="188" default-y="-25">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -21951,7 +22236,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="204" default-y="-25">
+   <note color="#000000" default-x="211" default-y="-25">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -21965,7 +22250,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="228" default-y="-25">
+   <note color="#000000" default-x="233" default-y="-25">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -21979,7 +22264,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note color="#000000" default-x="253" default-y="-77">
+   <note color="#000000" default-x="256" default-y="-77">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -21993,7 +22278,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="277" default-y="-77">
+   <note color="#000000" default-x="278" default-y="-77">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -22021,7 +22306,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="325" default-y="-77">
+   <note color="#000000" default-x="323" default-y="-77">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -22048,11 +22333,11 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <attributes />
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-73" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-74" color="#000000" type="diminuendo" />
     </direction-type>
     <staff>1</staff>
    </direction>
@@ -22070,7 +22355,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="39" default-y="-7">
+   <note color="#000000" default-x="37" default-y="-7">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -22084,7 +22369,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="63" default-y="-7">
+   <note color="#000000" default-x="60" default-y="-7">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -22098,7 +22383,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="87" default-y="-7">
+   <note color="#000000" default-x="83" default-y="-7">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -22114,12 +22399,12 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-73" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-74" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">767</offset>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="112" default-y="-20">
+   <note color="#000000" default-x="107" default-y="-20">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -22145,7 +22430,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P7, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <attributes />
    <note default-x="15">
     <rest />
@@ -25498,7 +25783,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -25521,7 +25806,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <attributes />
    <note default-x="15">
     <rest />
@@ -25620,7 +25905,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note default-x="109">
+   <note default-x="108">
     <rest />
     <duration>256</duration>
     <instrument id="P9-I1" />
@@ -25708,7 +25993,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="58" default-y="5">
+   <note color="#000000" default-x="57" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -25723,7 +26008,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="58">
+   <note color="#000000" default-x="57">
     <chord />
     <pitch>
      <step>B</step>
@@ -25737,7 +26022,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="58">
+   <note color="#000000" default-x="57">
     <chord />
     <pitch>
      <step>E</step>
@@ -25751,7 +26036,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="58">
+   <note color="#000000" default-x="57">
     <chord />
     <pitch>
      <step>G</step>
@@ -25792,7 +26077,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="152" default-y="-50">
+   <note color="#000000" default-x="151" default-y="-50">
     <pitch>
      <step>E</step>
      <octave>3</octave>
@@ -25807,7 +26092,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>G</step>
@@ -25821,7 +26106,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>B</step>
@@ -25835,7 +26120,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>D</step>
@@ -25849,7 +26134,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <arpeggiate />
     </notations>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>E</step>
@@ -25865,7 +26150,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -31143,7 +31428,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -31178,7 +31463,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>16th</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="106" default-y="-30">
+   <note color="#000000" default-x="105" default-y="-30">
     <pitch>
      <step>C</step>
      <octave>3</octave>
@@ -31192,7 +31477,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="130" default-y="-42">
+   <note color="#000000" default-x="127" default-y="-42">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -31206,7 +31491,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="155" default-y="-42">
+   <note color="#000000" default-x="150" default-y="-42">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31220,7 +31505,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="179" default-y="-42">
+   <note color="#000000" default-x="172" default-y="-42">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -31234,7 +31519,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="203" default-y="-42">
+   <note color="#000000" default-x="196" default-y="-42">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -31248,7 +31533,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="228" default-y="-42">
+   <note color="#000000" default-x="220" default-y="-42">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -31262,7 +31547,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="252" default-y="-42">
+   <note color="#000000" default-x="243" default-y="-42">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -31276,7 +31561,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>64</duration>
     <instrument id="P9-I1" />
@@ -31284,7 +31569,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="300" default-y="-28">
+   <note color="#000000" default-x="288" default-y="-28">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -31298,7 +31583,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="325" default-y="-28">
+   <note color="#000000" default-x="312" default-y="-28">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -31312,7 +31597,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="349" default-y="-28">
+   <note color="#000000" default-x="336" default-y="-28">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -31326,7 +31611,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="373" default-y="-28">
+   <note color="#000000" default-x="360" default-y="-28">
     <pitch>
      <step>G</step>
      <octave>6</octave>
@@ -31340,7 +31625,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="398" default-y="-28">
+   <note color="#000000" default-x="383" default-y="-28">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -31354,7 +31639,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="422" default-y="-28">
+   <note color="#000000" default-x="407" default-y="-28">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -31368,7 +31653,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="446" default-y="-28">
+   <note color="#000000" default-x="431" default-y="-28">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -31384,7 +31669,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <attributes />
    <note default-x="15">
     <rest />
@@ -31420,7 +31705,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="113" default-y="47">
+   <note color="#000000" default-x="109" default-y="47">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31432,7 +31717,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="113">
+   <note color="#000000" default-x="109">
     <chord />
     <pitch>
      <step>E</step>
@@ -31443,7 +31728,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="198" default-y="47">
+   <note color="#000000" default-x="191" default-y="47">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31455,7 +31740,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="198">
+   <note color="#000000" default-x="191">
     <chord />
     <pitch>
      <step>E</step>
@@ -31466,7 +31751,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="295" default-y="47">
+   <note color="#000000" default-x="288" default-y="47">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31478,7 +31763,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="295">
+   <note color="#000000" default-x="288">
     <chord />
     <pitch>
      <step>E</step>
@@ -31524,7 +31809,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <attributes />
    <note default-x="15">
     <rest />
@@ -31560,7 +31845,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="112" default-y="47">
+   <note color="#000000" default-x="107" default-y="47">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31572,7 +31857,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="112">
+   <note color="#000000" default-x="107">
     <chord />
     <pitch>
      <step>E</step>
@@ -31583,7 +31868,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="155" default-y="47">
+   <note color="#000000" default-x="166" default-y="47">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -31595,7 +31880,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="155">
+   <note color="#000000" default-x="166">
     <chord />
     <pitch>
      <step>E</step>
@@ -31606,7 +31891,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="253" default-y="47">
+   <note color="#000000" default-x="256" default-y="47">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -31618,7 +31903,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="253">
+   <note color="#000000" default-x="256">
     <chord />
     <pitch>
      <step>E</step>
@@ -31664,7 +31949,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <attributes />
    <note default-x="15">
     <rest />
@@ -31728,7 +32013,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="112" default-y="-35">
+   <note color="#000000" default-x="107" default-y="-35">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31740,7 +32025,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="112">
+   <note color="#000000" default-x="107">
     <chord />
     <pitch>
      <step>E</step>
@@ -31751,7 +32036,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="155" default-y="-35">
+   <note color="#000000" default-x="166" default-y="-35">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31763,7 +32048,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="155">
+   <note color="#000000" default-x="166">
     <chord />
     <pitch>
      <step>E</step>
@@ -31774,7 +32059,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="200" default-y="-35">
+   <note color="#000000" default-x="225" default-y="-35">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -31786,7 +32071,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="200">
+   <note color="#000000" default-x="225">
     <chord />
     <pitch>
      <step>E</step>
@@ -31799,7 +32084,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P9, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <attributes />
    <note default-x="15">
     <rest />
@@ -31817,7 +32102,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </backup>
    <direction>
     <direction-type>
-     <wedge default-x="27" default-y="-65" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
     </direction-type>
     <staff>2</staff>
    </direction>
@@ -31826,6 +32111,13 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">1023</offset>
+    <staff>2</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-y="-99" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">verklingend</words>
+    </direction-type>
+    <voice>2</voice>
     <staff>2</staff>
    </direction>
    <direction>
@@ -33068,7 +33360,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -33208,7 +33500,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <attributes />
    <note default-x="15">
     <rest />
@@ -33276,7 +33568,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="147" default-y="5">
+   <note color="#000000" default-x="148" default-y="5">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -33293,7 +33585,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="147">
+   <note color="#000000" default-x="148">
     <chord />
     <pitch>
      <step>D</step>
@@ -33304,7 +33596,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="147">
+   <note color="#000000" default-x="148">
     <chord />
     <pitch>
      <step>E</step>
@@ -33315,7 +33607,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="147">
+   <note color="#000000" default-x="148">
     <chord />
     <pitch>
      <step>G</step>
@@ -33399,7 +33691,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note default-x="109">
+   <note default-x="108">
     <rest />
     <duration>256</duration>
     <instrument id="P11-I1" />
@@ -33480,7 +33772,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="58" default-y="5">
+   <note color="#000000" default-x="57" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -33492,7 +33784,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="58">
+   <note color="#000000" default-x="57">
     <chord />
     <pitch>
      <step>B</step>
@@ -33503,7 +33795,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="58">
+   <note color="#000000" default-x="57">
     <chord />
     <pitch>
      <step>E</step>
@@ -33514,7 +33806,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="58">
+   <note color="#000000" default-x="57">
     <chord />
     <pitch>
      <step>G</step>
@@ -33552,7 +33844,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="152" default-y="-50">
+   <note color="#000000" default-x="151" default-y="-50">
     <pitch>
      <step>E</step>
      <octave>3</octave>
@@ -33569,7 +33861,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>G</step>
@@ -33580,7 +33872,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>B</step>
@@ -33591,7 +33883,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>D</step>
@@ -33602,7 +33894,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="152">
+   <note color="#000000" default-x="151">
     <chord />
     <pitch>
      <step>E</step>
@@ -33615,7 +33907,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -38391,7 +38683,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -38426,7 +38718,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>16th</type>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="106" default-y="-30">
+   <note color="#000000" default-x="105" default-y="-30">
     <pitch>
      <step>C</step>
      <octave>3</octave>
@@ -38440,7 +38732,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="130" default-y="-42">
+   <note color="#000000" default-x="127" default-y="-42">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -38454,7 +38746,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="155" default-y="-42">
+   <note color="#000000" default-x="150" default-y="-42">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -38468,7 +38760,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="179" default-y="-42">
+   <note color="#000000" default-x="172" default-y="-42">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -38482,7 +38774,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="203" default-y="-42">
+   <note color="#000000" default-x="196" default-y="-42">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -38496,7 +38788,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="228" default-y="-42">
+   <note color="#000000" default-x="220" default-y="-42">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -38510,7 +38802,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="252" default-y="-42">
+   <note color="#000000" default-x="243" default-y="-42">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -38524,7 +38816,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
    </note>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>64</duration>
     <instrument id="P11-I1" />
@@ -38532,7 +38824,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>16th</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="300" default-y="-27">
+   <note color="#000000" default-x="288" default-y="-27">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -38546,7 +38838,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
    </note>
-   <note color="#000000" default-x="325" default-y="-27">
+   <note color="#000000" default-x="312" default-y="-27">
     <pitch>
      <step>C</step>
      <octave>6</octave>
@@ -38560,7 +38852,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="349" default-y="-27">
+   <note color="#000000" default-x="336" default-y="-27">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -38574,7 +38866,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="373" default-y="-27">
+   <note color="#000000" default-x="360" default-y="-27">
     <pitch>
      <step>G</step>
      <octave>6</octave>
@@ -38588,7 +38880,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="398" default-y="-27">
+   <note color="#000000" default-x="383" default-y="-27">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -38602,7 +38894,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="422" default-y="-27">
+   <note color="#000000" default-x="407" default-y="-27">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -38616,7 +38908,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
    </note>
-   <note color="#000000" default-x="446" default-y="-27">
+   <note color="#000000" default-x="431" default-y="-27">
     <pitch>
      <step>B</step>
      <octave>4</octave>
@@ -38632,7 +38924,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <attributes />
    <note default-x="15">
     <rest />
@@ -38684,7 +38976,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>2</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="71" default-y="-26">
+   <note print-object="no" color="#000000" default-x="70" default-y="-26">
     <pitch>
      <step>C</step>
      <octave>4</octave>
@@ -38702,7 +38994,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>2</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="98" default-y="-26">
+   <note print-object="no" color="#000000" default-x="95" default-y="-26">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -38720,7 +39012,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="123" default-y="-26">
+   <note print-object="no" color="#000000" default-x="120" default-y="-26">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -38738,7 +39030,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="148" default-y="-26">
+   <note print-object="no" color="#000000" default-x="144" default-y="-26">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -38756,7 +39048,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="173" default-y="-26">
+   <note print-object="no" color="#000000" default-x="168" default-y="-26">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -38777,7 +39069,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
     </notations>
    </note>
-   <note print-object="no" color="#000000" default-x="198" default-y="-18">
+   <note print-object="no" color="#000000" default-x="191" default-y="-18">
     <pitch>
      <step>D</step>
      <octave>3</octave>
@@ -38798,7 +39090,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
     </notations>
    </note>
-   <note print-object="no" color="#000000" default-x="226" default-y="-23">
+   <note print-object="no" color="#000000" default-x="220" default-y="-23">
     <pitch>
      <step>G</step>
      <octave>3</octave>
@@ -38816,7 +39108,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>2</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="255" default-y="-23">
+   <note print-object="no" color="#000000" default-x="247" default-y="-23">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -38834,7 +39126,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>2</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="284" default-y="-23">
+   <note print-object="no" color="#000000" default-x="277" default-y="-23">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -38852,7 +39144,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="312" default-y="-23">
+   <note print-object="no" color="#000000" default-x="304" default-y="-23">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -38870,7 +39162,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="340" default-y="-23">
+   <note print-object="no" color="#000000" default-x="330" default-y="-23">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -38888,7 +39180,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">continue</beam>
    </note>
-   <note print-object="no" color="#000000" default-x="370" default-y="-23">
+   <note print-object="no" color="#000000" default-x="358" default-y="-23">
     <pitch>
      <step>G</step>
      <octave>5</octave>
@@ -38911,7 +39203,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <attributes />
    <note default-x="15">
     <rest />
@@ -38934,7 +39226,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <attributes />
    <note default-x="15">
     <rest />
@@ -38957,7 +39249,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P11, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <attributes />
    <note default-x="15">
     <rest />
@@ -40190,7 +40482,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -40245,7 +40537,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <attributes />
    <note default-x="15">
     <rest />
@@ -40309,7 +40601,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>2</staff>
    </note>
-   <note color="#000000" default-x="109" default-y="-5">
+   <note color="#000000" default-x="108" default-y="-5">
     <pitch>
      <step>G</step>
      <octave>2</octave>
@@ -40362,7 +40654,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <attributes />
    <note default-x="15">
     <rest />
@@ -40489,7 +40781,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </direction>
    <direction>
     <direction-type>
-     <words default-x="111" default-y="20" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="10.2313" font-weight="normal">hervortretend</words>
+     <words default-x="113" default-y="26" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">hervortretend</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -42402,7 +42694,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -42439,7 +42731,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <attributes />
    <note default-x="15">
     <rest />
@@ -42462,7 +42754,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <attributes />
    <note default-x="15">
     <rest />
@@ -42485,7 +42777,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <attributes />
    <note default-x="15">
     <rest />
@@ -42508,7 +42800,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P13, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <attributes />
    <note default-x="15">
     <rest />
@@ -42741,12 +43033,22 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 16 ==============-->
-  <measure number="16">
-   <print new-page="yes" />
+  <measure number="16" width="696">
+   <print new-page="yes">
+    <system-layout>
+     <system-margins>
+      <left-margin>104</left-margin>
+      <right-margin>0</right-margin>
+     </system-margins>
+    </system-layout>
+    <staff-layout number="1">
+     <staff-distance>85</staff-distance>
+    </staff-layout>
+   </print>
    <attributes>
-    <staff-details number="1" print-object="no" />
+    <staff-details number="1" print-object="yes" />
    </attributes>
-   <note print-object="no" default-x="89">
+   <note default-x="89">
     <rest />
     <duration>1024</duration>
     <instrument id="P15-I1" />
@@ -42756,8 +43058,8 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 17 ==============-->
-  <measure number="17">
-   <note print-object="no" default-x="22">
+  <measure number="17" width="532">
+   <note default-x="22">
     <rest />
     <duration>1024</duration>
     <instrument id="P15-I1" />
@@ -42767,20 +43069,82 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 18 ==============-->
-  <measure number="18">
+  <measure number="18" width="345">
    <attributes>
     <time color="#000000">
      <beats>3</beats>
      <beat-type>4</beat-type>
     </time>
    </attributes>
-   <note print-object="no" default-x="35">
+   <note default-x="35">
     <rest />
-    <duration>768</duration>
+    <duration>256</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
     <staff>1</staff>
+   </note>
+   <note default-x="115">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <dynamics default-x="166" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <ppp />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-y="30" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="11.1614" font-weight="bold">Nicht eilen</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="172" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="230" default-y="-57">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="287" default-y="-57">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 19 ==============-->
@@ -42803,78 +43167,572 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     </time>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note default-x="106">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="106" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
+    <stem>up</stem>
     <staff>1</staff>
+   </note>
+   <note default-x="177">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="202" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="228" default-y="12">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="254" default-y="12">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 20 ==============-->
   <measure number="20" width="222">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="15" default-y="-10">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="65" default-y="-15">
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
+   </note>
+   <note default-x="117">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="142" default-y="-10">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="171">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="196">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 21 ==============-->
   <measure number="21" width="222">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="15" default-y="-52">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>down</stem>
     <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="40" default-y="-52">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <note color="#000000" default-x="65" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="116">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-3" default-y="-65" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="142" default-y="-55">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="171" default-y="-44">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="196" default-y="-44">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 22 ==============-->
   <measure number="22" width="225">
-   <note default-x="16">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="16" default-y="-45">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
+   </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-5" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">-128</offset>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="72" default-y="-40">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
+   </note>
+   <note default-x="123">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <dynamics default-x="142" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <pp />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="148" default-y="-45">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="174" default-y="-49">
+    <pitch>
+     <step>G</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="199" default-y="-49">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 23 ==============-->
   <measure number="23" width="224">
-   <note default-x="20">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="20" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>512</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
+    <stem>down</stem>
     <staff>1</staff>
+   </note>
+   <note default-x="122">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="148" default-y="-40">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="173" default-y="-42">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="199" default-y="-42">
+    <pitch>
+     <step>C</step>
+     <octave>6</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 24 ==============-->
   <measure number="24" width="226">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="15" default-y="-19">
+    <pitch>
+     <step>B</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>down</stem>
     <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="40" default-y="-19">
+    <pitch>
+     <step>A</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <note color="#000000" default-x="65" default-y="-40">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
+   </note>
+   <note default-x="125">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="150" default-y="-25">
+    <pitch>
+     <step>A</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="175" default-y="-52">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="201" default-y="-52">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 25 ==============-->
   <measure number="25" width="194">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="15" default-y="-34">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="40" default-y="-34">
+    <pitch>
+     <step>G</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <note color="#000000" default-x="66" default-y="-45">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="101">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="120" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">dim.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="126" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="162" default-y="5">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
     <staff>1</staff>
    </note>
   </measure>
@@ -42894,61 +43752,395 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    <attributes>
     <staff-details number="1" print-object="yes" />
    </attributes>
-   <note default-x="82">
-    <rest />
-    <duration>1024</duration>
+   <direction>
+    <direction-type>
+     <wedge default-x="13" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="82" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
+    <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
+   </note>
+   <note default-x="193">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <dynamics default-x="215" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <pp />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="221" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="250" default-y="-57">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="277" default-y="-57">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 27 ==============-->
-  <measure number="27" width="203">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+  <measure number="27" width="202">
+   <note color="#000000" default-x="15" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>512</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
+    <stem>up</stem>
     <staff>1</staff>
+   </note>
+   <note default-x="91">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="119" default-y="-50">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="147" default-y="12">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="175" default-y="12">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 28 ==============-->
-  <measure number="28" width="203">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+  <measure number="28" width="204">
+   <note color="#000000" default-x="15" default-y="-10">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <stem>up</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="under" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="53" default-y="-15">
+    <pitch>
+     <step>C</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="under" />
+    </notations>
+   </note>
+   <note default-x="91">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-1" default-y="-65" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="119" default-y="-10">
+    <pitch>
+     <step>D</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="148">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">127</offset>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="176">
+    <pitch>
+     <step>G</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 29 ==============-->
   <measure number="29" width="220">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <direction>
+    <direction-type>
+     <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <p />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-52">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>down</stem>
     <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="42" default-y="-52">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <note color="#000000" default-x="70" default-y="10">
+    <pitch>
+     <step>A</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>up</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="108">
+    <rest />
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <staff>1</staff>
+   </note>
+   <direction>
+    <direction-type>
+     <words default-x="130" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">cresc.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="136" default-y="-55">
+    <pitch>
+     <step>B</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note color="#000000" default-x="164" default-y="-44">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="192" default-y="-44">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 30 ==============-->
   <measure number="30" width="207">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <note color="#000000" default-x="15" default-y="-45">
+    <pitch>
+     <step>D</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
     <instrument id="P15-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
+   </note>
+   <note color="#000000" default-x="57" default-y="-40">
+    <pitch>
+     <step>E</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>256</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>quarter</type>
+    <stem>down</stem>
+    <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
+   </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">-1</offset>
+    <staff>1</staff>
+   </direction>
+   <note default-x="96">
+    <rest />
+    <duration>512</duration>
+    <instrument id="P15-I1" />
+    <voice>1</voice>
+    <type>half</type>
     <staff>1</staff>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -44941,7 +46133,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -44969,7 +46161,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">begin</beam>
    </note>
-   <note color="#000000" default-x="130" default-y="-34">
+   <note color="#000000" default-x="127" default-y="-34">
     <pitch>
      <step>G</step>
      <octave>6</octave>
@@ -44982,7 +46174,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">end</beam>
    </note>
-   <note color="#000000" default-x="179" default-y="-45">
+   <note color="#000000" default-x="172" default-y="-45">
     <pitch>
      <step>D</step>
      <octave>6</octave>
@@ -45002,7 +46194,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>128</duration>
     <instrument id="P15-I1" />
@@ -45012,14 +46204,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="319" default-y="-90" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="306" default-y="-90" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <mf />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="325" default-y="10">
+   <note color="#000000" default-x="312" default-y="10">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -45034,7 +46226,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <slur color="#000000" type="start" orientation="under" />
     </notations>
    </note>
-   <note color="#000000" default-x="422" default-y="5">
+   <note color="#000000" default-x="407" default-y="5">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -45048,7 +46240,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-90" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
@@ -45076,16 +46268,16 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-75" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-85" color="#000000" type="diminuendo" />
     </direction-type>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-75" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">1023</offset>
     <staff>1</staff>
@@ -45107,7 +46299,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -45118,7 +46310,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P15, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -45786,7 +46978,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -45797,7 +46989,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -45830,7 +47022,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>512</duration>
@@ -45989,7 +47181,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>eighth</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="170" default-y="-25">
+   <note color="#000000" default-x="169" default-y="-25">
     <pitch>
      <step>A</step>
      <octave>5</octave>
@@ -47527,7 +48719,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -47552,47 +48744,449 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 68 ==============-->
-  <measure number="68" width="398">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+  <measure number="68" width="384">
+   <direction>
+    <direction-type>
+     <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <ppp />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P16-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>up</stem>
     <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="61" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+   </note>
+   <note color="#000000" default-x="109" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+   </note>
+   <note color="#000000" default-x="150" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <note color="#000000" default-x="191" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="239" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="288" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="339" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 69 ==============-->
-  <measure number="69" width="350">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+  <measure number="69" width="347">
+   <note color="#000000" default-x="15" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P16-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>up</stem>
     <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="61" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="107" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="136" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="166" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="211" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="256" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
+   </note>
+   <note color="#000000" default-x="301" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+    <notations>
+     <articulations>
+      <staccato />
+     </articulations>
+    </notations>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 70 ==============-->
-  <measure number="70" width="243">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+  <measure number="70" width="283">
+   <direction>
+    <direction-type>
+     <words default-x="20" default-y="-68" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">molto dim.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
     <instrument id="P16-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>eighth</type>
+    <stem>up</stem>
     <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="60" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+   </note>
+   <note color="#000000" default-x="107" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+   </note>
+   <note color="#000000" default-x="136" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
+   </note>
+   <note color="#000000" default-x="166" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">begin</beam>
+   </note>
+   <note color="#000000" default-x="195" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+   </note>
+   <note color="#000000" default-x="225" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">continue</beam>
+   </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="5" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="254" default-y="-7">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
+    <duration>128</duration>
+    <instrument id="P16-I1" />
+    <voice>1</voice>
+    <type>eighth</type>
+    <stem>up</stem>
+    <staff>1</staff>
+    <beam number="1">end</beam>
    </note>
   </measure>
   <!--============== Part: P16, Measure: 71 ==============-->
-  <measure number="71" width="132">
-   <note default-x="15">
-    <rest />
+  <measure number="71" width="125">
+   <direction>
+    <direction-type>
+     <words default-x="5" default-y="7" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">verklingend</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">1023</offset>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15">
+    <pitch>
+     <step>E</step>
+     <octave>4</octave>
+    </pitch>
     <duration>1024</duration>
     <instrument id="P16-I1" />
     <voice>1</voice>
     <type>whole</type>
     <staff>1</staff>
+    <notations>
+     <fermata>normal</fermata>
+    </notations>
    </note>
    <barline>
     <bar-style>light-heavy</bar-style>
@@ -48680,7 +50274,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -48691,7 +50285,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -48724,7 +50318,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -49848,21 +51442,26 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
   </measure>
   <!--============== Part: P17, Measure: 61 ==============-->
   <measure number="61" width="390">
-   <note default-x="15">
-    <rest />
+   <direction>
+    <direction-type>
+     <dynamics default-x="9" default-y="-71" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <f />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-25">
+    <pitch>
+     <step>A</step>
+     <octave>5</octave>
+    </pitch>
     <duration>512</duration>
     <instrument id="P17-I1" />
     <voice>1</voice>
     <type>half</type>
+    <stem>down</stem>
     <staff>1</staff>
-    <notations>
-     <articulations>
-      <accent />
-     </articulations>
-     <technical>
-      <down-bow />
-     </technical>
-    </notations>
    </note>
    <note default-x="202">
     <rest />
@@ -50355,7 +51954,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -50380,14 +51979,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="173" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="166" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <f />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="179" default-y="-20">
+   <note color="#000000" default-x="172" default-y="-20">
     <pitch>
      <step>B</step>
      <octave>5</octave>
@@ -50399,7 +51998,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="179">
+   <note color="#000000" default-x="172">
     <chord />
     <pitch>
      <step>D</step>
@@ -50410,7 +52009,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <type>quarter</type>
     <staff>1</staff>
    </note>
-   <note default-x="276">
+   <note default-x="266">
     <rest />
     <duration>512</duration>
     <instrument id="P17-I1" />
@@ -50420,7 +52019,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
@@ -50442,7 +52041,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="113" default-y="-5">
+   <note color="#000000" default-x="109" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50454,7 +52053,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="198" default-y="-5">
+   <note color="#000000" default-x="191" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50466,7 +52065,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="295" default-y="-5">
+   <note color="#000000" default-x="288" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50480,7 +52079,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
@@ -50502,7 +52101,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="112" default-y="-5">
+   <note color="#000000" default-x="107" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50516,14 +52115,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="150" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="160" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="155" default-y="-5">
+   <note color="#000000" default-x="166" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50535,7 +52134,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="253" default-y="-5">
+   <note color="#000000" default-x="256" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50549,7 +52148,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
+   <direction>
+    <direction-type>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">dim.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
@@ -50568,7 +52174,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="112" default-y="-5">
+   <note color="#000000" default-x="107" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50580,7 +52186,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="155" default-y="-5">
+   <note color="#000000" default-x="166" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50594,12 +52200,12 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+     <wedge default-x="-10" default-y="-65" color="#000000" type="stop" />
     </direction-type>
-    <offset sound="no">255</offset>
+    <offset sound="no">128</offset>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="200" default-y="-5">
+   <note color="#000000" default-x="225" default-y="-5">
     <pitch>
      <step>E</step>
      <octave>4</octave>
@@ -50613,14 +52219,34 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P17, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
-      <pp />
+      <ppp />
      </dynamics>
     </direction-type>
     <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="5" default-y="7" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">verklingend</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">1023</offset>
     <staff>1</staff>
    </direction>
    <note color="#000000" default-x="15">
@@ -51181,7 +52807,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -51192,7 +52818,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -51225,7 +52851,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -52322,15 +53948,6 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tuplet type="start" bracket="no" number="1" default-y="-57" placement="below" />
     </notations>
    </note>
-   <direction>
-    <direction-type>
-     <dynamics default-x="290" default-y="-81" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
-      <f />
-     </dynamics>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
    <note color="#000000" default-x="295" default-y="-59">
     <pitch>
      <step>D</step>
@@ -52457,12 +54074,33 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
   </measure>
   <!--============== Part: P18, Measure: 61 ==============-->
   <measure number="61" width="390">
-   <note default-x="15">
-    <rest />
-    <duration>1024</duration>
+   <direction>
+    <direction-type>
+     <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+      <f />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <note color="#000000" default-x="15" default-y="-20">
+    <pitch>
+     <step>C</step>
+     <octave>5</octave>
+    </pitch>
+    <duration>512</duration>
     <instrument id="P18-I1" />
     <voice>1</voice>
-    <type>whole</type>
+    <type>half</type>
+    <stem>down</stem>
+    <staff>1</staff>
+   </note>
+   <note default-x="202">
+    <rest />
+    <duration>512</duration>
+    <instrument id="P18-I1" />
+    <voice>1</voice>
+    <type>half</type>
     <staff>1</staff>
    </note>
   </measure>
@@ -52653,7 +54291,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -52678,7 +54316,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
@@ -52700,7 +54338,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="113" default-y="5">
+   <note color="#000000" default-x="109" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52712,7 +54350,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="198" default-y="5">
+   <note color="#000000" default-x="191" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52724,7 +54362,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="295" default-y="5">
+   <note color="#000000" default-x="288" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52738,7 +54376,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
@@ -52760,7 +54398,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="112" default-y="5">
+   <note color="#000000" default-x="107" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52774,14 +54412,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <dynamics default-x="150" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="160" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <p />
      </dynamics>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="155" default-y="10">
+   <note color="#000000" default-x="166" default-y="10">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -52793,7 +54431,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="253" default-y="10">
+   <note color="#000000" default-x="256" default-y="10">
     <pitch>
      <step>B</step>
      <octave>3</octave>
@@ -52807,7 +54445,14 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
+   <direction>
+    <direction-type>
+     <words default-x="9" default-y="-70" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">dim.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
@@ -52826,7 +54471,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="112" default-y="5">
+   <note color="#000000" default-x="107" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52838,7 +54483,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="155" default-y="5">
+   <note color="#000000" default-x="166" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52852,12 +54497,12 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+     <wedge default-x="-3" default-y="-65" color="#000000" type="stop" />
     </direction-type>
-    <offset sound="no">255</offset>
+    <offset sound="no">128</offset>
     <staff>1</staff>
    </direction>
-   <note color="#000000" default-x="200" default-y="5">
+   <note color="#000000" default-x="225" default-y="5">
     <pitch>
      <step>A</step>
      <octave>3</octave>
@@ -52871,14 +54516,34 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P18, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
-      <pp />
+      <ppp />
      </dynamics>
     </direction-type>
     <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <words default-x="5" default-y="-1" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="10.2313" font-weight="normal">verklingend</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">1023</offset>
     <staff>1</staff>
    </direction>
    <note color="#000000" default-x="15">
@@ -53116,7 +54781,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      </system-margins>
     </system-layout>
     <staff-layout number="1">
-     <staff-distance>85</staff-distance>
+     <staff-distance>55</staff-distance>
     </staff-layout>
    </print>
    <attributes>
@@ -53207,14 +54872,6 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
      <tied type="stop" />
     </notations>
    </note>
-   <direction>
-    <direction-type>
-     <words default-y="30" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="11.1614" font-weight="bold">Nicht eilen</words>
-    </direction-type>
-    <offset sound="no">128</offset>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
    <direction>
     <direction-type>
      <wedge default-x="-13" default-y="-54" color="#000000" type="stop" />
@@ -53771,7 +55428,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <direction>
     <direction-type>
      <dynamics default-x="9" default-y="-87" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
@@ -53814,7 +55471,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note color="#000000" default-x="15">
     <pitch>
      <step>A</step>
@@ -53854,7 +55511,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="109" default-y="-5">
+   <note color="#000000" default-x="108" default-y="-5">
     <pitch>
      <step>G</step>
      <octave>2</octave>
@@ -53895,7 +55552,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note color="#000000" default-x="15" default-y="-10">
     <pitch>
      <step>F</step>
@@ -55096,7 +56753,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -55124,7 +56781,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="276" default-y="-5">
+   <note color="#000000" default-x="266" default-y="-5">
     <pitch>
      <step>G</step>
      <octave>2</octave>
@@ -55138,10 +56795,10 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
-     <dynamics default-x="9" default-y="-90" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="9" default-y="-89" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <mf />
      </dynamics>
     </direction-type>
@@ -55165,16 +56822,16 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-85" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-84" color="#000000" type="diminuendo" />
     </direction-type>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-84" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">1023</offset>
     <staff>1</staff>
@@ -55196,7 +56853,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -55207,7 +56864,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P19, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -55712,6 +57369,13 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
+   <direction>
+    <direction-type>
+     <words default-x="95" default-y="20" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="10.2313" font-weight="normal">sempre pizz.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="125" default-y="-55">
     <pitch>
      <step>D</step>
@@ -55778,7 +57442,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 27 ==============-->
-  <measure number="27" width="203">
+  <measure number="27" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -55789,7 +57453,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 28 ==============-->
-  <measure number="28" width="203">
+  <measure number="28" width="204">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -55822,7 +57486,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 31 ==============-->
-  <measure number="31" width="203">
+  <measure number="31" width="202">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -56899,7 +58563,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 67 ==============-->
-  <measure number="67" width="470">
+  <measure number="67" width="455">
    <print new-page="yes">
     <system-layout>
      <system-margins>
@@ -56927,7 +58591,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
     <stem>up</stem>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="276" default-y="-5">
+   <note color="#000000" default-x="266" default-y="-5">
     <pitch>
      <step>G</step>
      <octave>2</octave>
@@ -56941,10 +58605,10 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 68 ==============-->
-  <measure number="68" width="398">
+  <measure number="68" width="384">
    <direction>
     <direction-type>
-     <dynamics default-x="9" default-y="-90" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
+     <dynamics default-x="9" default-y="-89" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="10.2313" font-weight="normal">
       <mf />
      </dynamics>
     </direction-type>
@@ -56968,16 +58632,16 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 69 ==============-->
-  <measure number="69" width="350">
+  <measure number="69" width="347">
    <direction>
     <direction-type>
-     <wedge default-x="11" default-y="-85" color="#000000" type="diminuendo" />
+     <wedge default-x="11" default-y="-84" color="#000000" type="diminuendo" />
     </direction-type>
     <staff>1</staff>
    </direction>
    <direction>
     <direction-type>
-     <wedge default-x="-8" default-y="-85" color="#000000" type="stop" />
+     <wedge default-x="-8" default-y="-84" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">1023</offset>
     <staff>1</staff>
@@ -56999,7 +58663,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 70 ==============-->
-  <measure number="70" width="243">
+  <measure number="70" width="283">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
@@ -57010,7 +58674,7 @@ bearbeitet für Kammerensemble von jswxdzc</credit-words>
    </note>
   </measure>
   <!--============== Part: P20, Measure: 71 ==============-->
-  <measure number="71" width="132">
+  <measure number="71" width="125">
    <note default-x="15">
     <rest />
     <duration>1024</duration>
