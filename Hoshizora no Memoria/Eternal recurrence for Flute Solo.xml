@@ -8,7 +8,7 @@
   <creator type="composer">Shinobu
 für Flöte solo von jswxdzc</creator>
   <encoding>
-   <encoding-date>2017-09-10</encoding-date>
+   <encoding-date>2018-02-17</encoding-date>
    <encoder>Achilles</encoder>
    <software>Sibelius 8.2.0</software>
    <software>Direct export, not from Dolet</software>
@@ -79,6 +79,9 @@ für Flöte solo von jswxdzc</creator>
   <credit-words default-x="1148" default-y="84" font-family="Plantin MT Std" font-style="normal" font-size="11.0064" font-weight="normal" justify="right" valign="middle">Shinobu
 für Flöte solo von jswxdzc</credit-words>
  </credit>
+ <credit page="1">
+  <credit-words default-x="616" default-y="200" font-family="Plantin MT Std" font-style="italic" font-size="11.0064" font-weight="normal" justify="center" valign="middle">clowwindy gewidmet</credit-words>
+ </credit>
  <credit page="2">
   <credit-words default-x="85" default-y="1510" font-style="normal" font-weight="normal" justify="left" valign="middle">2</credit-words>
  </credit>
@@ -143,7 +146,7 @@ für Flöte solo von jswxdzc</credit-words>
    </direction>
    <direction>
     <direction-type>
-     <metronome default-y="69" color="#000000" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">
+     <metronome default-y="73" color="#000000" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">
       <beat-unit>quarter</beat-unit>
       <per-minute>120</per-minute>
      </metronome>
@@ -163,6 +166,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -180,6 +184,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -200,6 +205,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -217,6 +223,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -236,6 +243,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="69" default-y="-35">
     <pitch>
@@ -286,6 +296,9 @@ für Flöte solo von jswxdzc</credit-words>
     <voice>1</voice>
     <type>whole</type>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 5 ==============-->
@@ -301,6 +314,12 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <articulations>
+      <strong-accent />
+     </articulations>
+    </notations>
    </note>
    <note color="#000000" default-x="106" default-y="-35">
     <pitch>
@@ -313,6 +332,12 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+     <articulations>
+      <strong-accent />
+     </articulations>
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 6 ==============-->
@@ -340,6 +365,12 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <articulations>
+      <strong-accent />
+     </articulations>
+    </notations>
    </note>
    <note color="#000000" default-x="154" default-y="-25">
     <pitch>
@@ -352,6 +383,12 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+     <articulations>
+      <strong-accent />
+     </articulations>
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 7 ==============-->
@@ -367,6 +404,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="65" default-y="-20">
     <pitch>
@@ -404,6 +444,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 8 ==============-->
@@ -510,7 +553,7 @@ für Flöte solo von jswxdzc</credit-words>
   <measure number="9" width="304">
    <direction>
     <direction-type>
-     <words default-y="39" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">Leicht und duftig gespielt</words>
+     <words default-y="59" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">Leicht und duftig gespielt</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -542,7 +585,7 @@ für Flöte solo von jswxdzc</credit-words>
    </direction>
    <direction>
     <direction-type>
-     <words default-x="95" default-y="12" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="11.9365" font-weight="normal">gesangvoll</words>
+     <words default-x="95" default-y="32" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="11.9365" font-weight="normal">gesangvoll</words>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -558,6 +601,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="138" default-y="-39">
     <pitch>
@@ -659,6 +705,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" />
     </notations>
    </note>
@@ -673,6 +720,10 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="178" default-y="-42">
     <pitch>
@@ -740,6 +791,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="67" default-y="-35">
     <pitch>
@@ -752,6 +806,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="106" default-y="-40">
     <pitch>
@@ -790,12 +847,21 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
      <tied type="start" />
     </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 12 ==============-->
   <measure number="12" width="139">
+   <direction>
+    <direction-type>
+     <words default-x="53" default-y="-62" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="11.9365" font-weight="normal">dim.</words>
+    </direction-type>
+    <offset sound="no">319</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <direction>
     <direction-type>
      <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
@@ -823,6 +889,7 @@ für Flöte solo von jswxdzc</credit-words>
     <type>whole</type>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" />
     </notations>
    </note>
@@ -865,6 +932,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="144" default-y="-39">
     <pitch>
@@ -966,6 +1036,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" />
     </notations>
    </note>
@@ -980,6 +1051,10 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="161" default-y="-42">
     <pitch>
@@ -1047,6 +1122,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="60" default-y="-35">
     <pitch>
@@ -1059,6 +1137,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="92" default-y="-30">
     <pitch>
@@ -1097,6 +1178,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
      <tied type="start" />
     </notations>
    </note>
@@ -1116,6 +1198,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" />
     </notations>
    </note>
@@ -1289,6 +1372,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <breath-mark />
      </articulations>
@@ -1394,6 +1478,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" />
     </notations>
    </note>
@@ -1408,6 +1493,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="159" default-y="-42">
     <pitch>
@@ -1475,6 +1563,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="58" default-y="-35">
     <pitch>
@@ -1487,6 +1578,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="90" default-y="-40">
     <pitch>
@@ -1525,6 +1619,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="start" />
      <fermata>normal</fermata>
     </notations>
@@ -1699,6 +1794,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="121" default-y="-39">
     <pitch>
@@ -1800,6 +1898,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="stop" />
     </notations>
    </note>
@@ -1814,6 +1913,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="173" default-y="-42">
     <pitch>
@@ -1930,6 +2032,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <breath-mark />
      </articulations>
@@ -1960,6 +2063,9 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="51" default-y="-22">
     <pitch>
@@ -2012,6 +2118,9 @@ für Flöte solo von jswxdzc</credit-words>
     <accidental>flat</accidental>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 25 ==============-->
@@ -2027,7 +2136,10 @@ für Flöte solo von jswxdzc</credit-words>
    </direction>
    <direction>
     <direction-type>
-     <words default-y="13" justify="left" valign="middle" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">Nicht zu schell</words>
+     <metronome default-y="15" color="#000000" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">
+      <beat-unit>quarter</beat-unit>
+      <per-minute>142</per-minute>
+     </metronome>
     </direction-type>
     <voice>1</voice>
     <staff>1</staff>
@@ -2045,6 +2157,9 @@ für Flöte solo von jswxdzc</credit-words>
     <dot />
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="82" default-y="-55">
     <pitch>
@@ -2169,6 +2284,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 27 ==============-->
@@ -2190,7 +2308,18 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
+   <direction>
+    <direction-type>
+     <words default-x="67" default-y="-76" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="11.9365" font-weight="normal">cresc.</words>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="73" default-y="-40">
     <pitch>
      <step>E</step>
@@ -2233,13 +2362,16 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 28 ==============-->
   <measure number="28" width="229">
    <direction>
     <direction-type>
-     <dynamics default-x="9" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
+     <dynamics default-x="9" default-y="-76" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
       <f />
      </dynamics>
     </direction-type>
@@ -2259,6 +2391,12 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="11" default-y="-71" color="#000000" type="diminuendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="93" default-y="-40">
     <pitch>
      <step>E</step>
@@ -2272,6 +2410,13 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-8" default-y="-71" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">255</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="171" default-y="-50">
     <pitch>
      <step>C</step>
@@ -2299,7 +2444,19 @@ für Flöte solo von jswxdzc</credit-words>
     <dot />
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
+   <direction>
+    <direction-type>
+     <dynamics default-x="87" default-y="-76" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
+      <f />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="93" default-y="-55">
     <pitch>
      <step>B</step>
@@ -2312,6 +2469,12 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <articulations>
+      <breath-mark />
+     </articulations>
+    </notations>
    </note>
    <note color="#000000" default-x="135" default-y="-55">
     <pitch>
@@ -2422,6 +2585,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 31 ==============-->
@@ -2438,6 +2604,9 @@ für Flöte solo von jswxdzc</credit-words>
     <dot />
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="84" default-y="-35">
     <pitch>
@@ -2450,6 +2619,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>eighth</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="121" default-y="-25">
     <pitch>
@@ -2506,6 +2678,7 @@ für Flöte solo von jswxdzc</credit-words>
     <staff>1</staff>
     <notations>
      <tuplet type="stop" bracket="yes" number="1" default-y="-52" placement="below" />
+     <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
   </measure>
@@ -2576,6 +2749,7 @@ für Flöte solo von jswxdzc</credit-words>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <fermata>normal</fermata>
     </notations>
    </note>
@@ -2594,6 +2768,9 @@ für Flöte solo von jswxdzc</credit-words>
     <beam number="1">continue</beam>
     <notations>
      <slur color="#000000" type="start" orientation="over" />
+     <articulations>
+      <breath-mark />
+     </articulations>
     </notations>
    </note>
    <note color="#000000" default-x="89" default-y="-52">
@@ -2653,6 +2830,9 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="237" default-y="-52">
     <pitch>
@@ -2707,6 +2887,9 @@ für Flöte solo von jswxdzc</credit-words>
     <accidental>natural</accidental>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="121" default-y="-20">
     <pitch>
@@ -2745,6 +2928,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 35 ==============-->
@@ -2881,6 +3067,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="209" default-y="-45">
     <pitch>
@@ -2895,6 +3084,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <tied type="start" />
     </notations>
    </note>
@@ -2942,6 +3132,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="142" default-y="-34">
     <pitch>
@@ -2955,6 +3148,10 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+     <slur color="#000000" type="start" orientation="over" number="2" />
+    </notations>
    </note>
    <note color="#000000" default-x="180" default-y="-34">
     <pitch>
@@ -2980,6 +3177,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 38 ==============-->
@@ -3008,6 +3208,12 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-x="-1" default-y="-59" color="#000000" type="crescendo" />
+    </direction-type>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="119" default-y="-40">
     <pitch>
      <step>E</step>
@@ -3032,6 +3238,13 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
    </note>
+   <direction>
+    <direction-type>
+     <wedge default-y="-59" color="#000000" type="stop" />
+    </direction-type>
+    <offset sound="no">82</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="206" default-y="-25">
     <pitch>
      <step>A</step>
@@ -3156,6 +3369,10 @@ für Flöte solo von jswxdzc</credit-words>
     <dot />
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" number="2" />
+     <fermata>normal</fermata>
+    </notations>
    </note>
    <note default-x="187">
     <rest />
@@ -3165,7 +3382,7 @@ für Flöte solo von jswxdzc</credit-words>
     <type>32nd</type>
     <staff>1</staff>
    </note>
-   <note color="#000000" default-x="211" default-y="17">
+   <note color="#000000" default-x="211" default-y="-69">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -3174,13 +3391,16 @@ für Flöte solo von jswxdzc</credit-words>
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>32nd</type>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
     <beam number="3">begin</beam>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
-   <note color="#000000" default-x="235" default-y="17">
+   <note color="#000000" default-x="235" default-y="-69">
     <pitch>
      <step>G</step>
      <octave>4</octave>
@@ -3189,13 +3409,13 @@ für Flöte solo von jswxdzc</credit-words>
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>32nd</type>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
     <beam number="3">continue</beam>
    </note>
-   <note color="#000000" default-x="259" default-y="17">
+   <note color="#000000" default-x="259" default-y="-69">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -3204,7 +3424,7 @@ für Flöte solo von jswxdzc</credit-words>
     <instrument id="P1-I1" />
     <voice>1</voice>
     <type>32nd</type>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
@@ -3235,6 +3455,9 @@ für Flöte solo von jswxdzc</credit-words>
     <dot />
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
    <direction>
     <direction-type>
@@ -3255,6 +3478,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <direction>
     <direction-type>
@@ -3326,7 +3552,7 @@ für Flöte solo von jswxdzc</credit-words>
    <direction>
     <direction-type>
      <dynamics default-x="62" default-y="-75" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
-      <f />
+      <ff />
      </dynamics>
     </direction-type>
     <voice>1</voice>
@@ -3388,6 +3614,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>half</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
   </measure>
   <!--============== Part: P1, Measure: 43 ==============-->
@@ -3426,6 +3655,7 @@ für Flöte solo von jswxdzc</credit-words>
     <staff>1</staff>
     <notations>
      <tuplet type="start" bracket="yes" number="1" default-y="-52" placement="below" />
+     <slur color="#000000" type="start" orientation="over" />
     </notations>
    </note>
    <note color="#000000" default-x="75" default-y="-25">
@@ -3540,6 +3770,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="stop" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="294" default-y="-20">
     <pitch>
@@ -3879,6 +4112,16 @@ für Flöte solo von jswxdzc</credit-words>
     <voice>1</voice>
     <staff>1</staff>
    </direction>
+   <direction>
+    <direction-type>
+     <metronome default-y="60" color="#000000" font-family="Plantin MT Std" font-style="normal" font-size="13.0217" font-weight="bold">
+      <beat-unit>quarter</beat-unit>
+      <beat-unit>eighth</beat-unit>
+     </metronome>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="15" default-y="-35">
     <pitch>
      <step>F</step>
@@ -3890,6 +4133,9 @@ für Flöte solo von jswxdzc</credit-words>
     <type>quarter</type>
     <stem>down</stem>
     <staff>1</staff>
+    <notations>
+     <slur color="#000000" type="start" orientation="over" />
+    </notations>
    </note>
    <note color="#000000" default-x="70" default-y="-30">
     <pitch>
@@ -4042,10 +4288,11 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <fermata>normal</fermata>
     </notations>
    </note>
-   <note color="#000000" default-x="179" default-y="24">
+   <note color="#000000" default-x="179" default-y="-77">
     <pitch>
      <step>D</step>
      <octave>4</octave>
@@ -4059,16 +4306,20 @@ für Flöte solo von jswxdzc</credit-words>
      <normal-notes>4</normal-notes>
      <normal-type>32nd</normal-type>
     </time-modification>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">begin</beam>
     <beam number="2">begin</beam>
     <beam number="3">begin</beam>
     <notations>
-     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="above" />
+     <tuplet type="start" bracket="no" number="1" default-y="-20" placement="below" />
+     <slur color="#000000" type="start" orientation="over" />
+     <articulations>
+      <breath-mark />
+     </articulations>
     </notations>
    </note>
-   <note color="#000000" default-x="198" default-y="24">
+   <note color="#000000" default-x="198" default-y="-77">
     <pitch>
      <step>F</step>
      <octave>4</octave>
@@ -4082,13 +4333,13 @@ für Flöte solo von jswxdzc</credit-words>
      <normal-notes>4</normal-notes>
      <normal-type>32nd</normal-type>
     </time-modification>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
     <beam number="3">continue</beam>
    </note>
-   <note color="#000000" default-x="216" default-y="24">
+   <note color="#000000" default-x="216" default-y="-77">
     <pitch>
      <step>A</step>
      <octave>4</octave>
@@ -4102,13 +4353,13 @@ für Flöte solo von jswxdzc</credit-words>
      <normal-notes>4</normal-notes>
      <normal-type>32nd</normal-type>
     </time-modification>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
     <beam number="3">continue</beam>
    </note>
-   <note color="#000000" default-x="235" default-y="24">
+   <note color="#000000" default-x="235" default-y="-77">
     <pitch>
      <step>C</step>
      <octave>5</octave>
@@ -4122,13 +4373,13 @@ für Flöte solo von jswxdzc</credit-words>
      <normal-notes>4</normal-notes>
      <normal-type>32nd</normal-type>
     </time-modification>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">continue</beam>
     <beam number="2">continue</beam>
     <beam number="3">continue</beam>
    </note>
-   <note color="#000000" default-x="254" default-y="24">
+   <note color="#000000" default-x="254" default-y="-77">
     <pitch>
      <step>D</step>
      <octave>5</octave>
@@ -4142,13 +4393,13 @@ für Flöte solo von jswxdzc</credit-words>
      <normal-notes>4</normal-notes>
      <normal-type>32nd</normal-type>
     </time-modification>
-    <stem>up</stem>
+    <stem>down</stem>
     <staff>1</staff>
     <beam number="1">end</beam>
     <beam number="2">end</beam>
     <beam number="3">end</beam>
     <notations>
-     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="above" />
+     <tuplet type="stop" bracket="no" number="1" default-y="-20" placement="below" />
     </notations>
    </note>
    <note color="#000000" default-x="273" default-y="-35">
@@ -4164,6 +4415,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <tied type="start" />
     </notations>
    </note>
@@ -4405,6 +4657,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4422,6 +4675,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4454,6 +4708,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4471,6 +4726,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4491,6 +4747,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4561,6 +4818,7 @@ für Flöte solo von jswxdzc</credit-words>
     <type>whole</type>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4588,6 +4846,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4605,6 +4864,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4625,6 +4885,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4642,6 +4903,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4674,6 +4936,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="start" orientation="over" />
      <articulations>
       <strong-accent />
      </articulations>
@@ -4726,6 +4989,7 @@ für Flöte solo von jswxdzc</credit-words>
     <stem>down</stem>
     <staff>1</staff>
     <notations>
+     <slur color="#000000" type="stop" orientation="over" />
      <articulations>
       <accent />
      </articulations>
@@ -4826,6 +5090,15 @@ für Flöte solo von jswxdzc</credit-words>
   </measure>
   <!--============== Part: P1, Measure: 60 ==============-->
   <measure number="60" width="223">
+   <direction>
+    <direction-type>
+     <dynamics default-x="23" default-y="-70" color="#000000" font-family="Opus Text Std" font-style="normal" font-size="11.9365" font-weight="normal">
+      <p />
+     </dynamics>
+    </direction-type>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="8" default-y="21">
     <grace slash="yes" />
     <pitch>
@@ -4963,6 +5236,21 @@ für Flöte solo von jswxdzc</credit-words>
   </measure>
   <!--============== Part: P1, Measure: 62 ==============-->
   <measure number="62" width="109">
+   <direction>
+    <direction-type>
+     <words default-x="78" default-y="-59" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="11.9365" font-weight="normal">verkligend</words>
+    </direction-type>
+    <offset sound="no">685</offset>
+    <voice>1</voice>
+    <staff>1</staff>
+   </direction>
+   <direction>
+    <direction-type>
+     <wedge default-y="-65" color="#000000" type="diminuendo" />
+    </direction-type>
+    <offset sound="no">790</offset>
+    <staff>1</staff>
+   </direction>
    <note color="#000000" default-x="15">
     <pitch>
      <step>A</step>
@@ -4985,19 +5273,6 @@ für Flöte solo von jswxdzc</credit-words>
   <measure number="63" width="124">
    <direction>
     <direction-type>
-     <words default-x="11" default-y="-56" justify="left" valign="middle" font-family="Plantin MT Std" font-style="italic" font-size="11.9365" font-weight="normal">verkligend</words>
-    </direction-type>
-    <voice>1</voice>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
-     <wedge default-x="11" default-y="-65" color="#000000" type="diminuendo" />
-    </direction-type>
-    <staff>1</staff>
-   </direction>
-   <direction>
-    <direction-type>
      <wedge default-x="-8" default-y="-65" color="#000000" type="stop" />
     </direction-type>
     <offset sound="no">1023</offset>
@@ -5016,7 +5291,6 @@ für Flöte solo von jswxdzc</credit-words>
     <staff>1</staff>
     <notations>
      <tied type="stop" />
-     <fermata>normal</fermata>
     </notations>
    </note>
    <barline>
